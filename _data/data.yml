@@ -120,10 +120,10 @@ projects:
             - Managed virtual cognitive interviews with experimental subjects.  
       - title: Optimal Behavior in Blockchains, in Crowdfunding, and in Robo Advisor Portfolio Management
         tagline: |
-            - Applied mathematical optimization approach in the probability model field to solve the problems of maximizing the investor portfolio for robo-advisor, as well as crowdfunding investment.  
-            - Explored possible equilibrium problems in the blockchain with the help of game theory and economics.  
-            - Built the architecture model of PoW via the design mechanism of two types of Blockchain: PoS and PoW.  
-            - Established models and tested contractual features of crowdfunding and leveraged effective methods to improve the design and reduce moral risks of crowdfunding markets.  
+            - Applied mathematical optimization approach in the probability model field to solve the problems of maximizing the investor portfolio for robo-advisor, as well as crowdfunding investment.  |
+            - Explored possible equilibrium problems in the blockchain with the help of game theory and economics.  |
+            - Built the architecture model of PoW via the design mechanism of two types of Blockchain: PoS and PoW.  |
+            - Established models and tested contractual features of crowdfunding and leveraged effective methods to improve the design and reduce moral risks of crowdfunding markets.  |
             - Studied the Treynor-Black and Black-Litterman Model portfolios and evaluated their performance.  
       
     
