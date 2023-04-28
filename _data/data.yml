@@ -93,16 +93,11 @@ education:
             - Bullet point
             - Bullet point
 
-projects:
-    title: Experiences
-    info:
-      - role: Equity Research Intern – Power Equipment & New Energy Group
-        time: Dec. 2020 - May 2021
-        company: Industrial Securities, Remote
-        details: |
-            - Constructed valuation models for GOODWE and SMA; performed horizontal and vertical comparisons and assessed industry prospects.
-            - Collected massive domestic and foreign photovoltaic industry data, focused on household and industrial energy storage as well as trends of carbon neutrality, constructed and updated industry database, and wrote 5 research reports for investment reference.
-      - role: Business Intern
+
+    
+      
+    
+experiences:
     title: Projects
     info:
       - role: Option Pricing and Volatility Surface Parameterization
@@ -128,9 +123,6 @@ projects:
             - Built the architecture model of PoW via the design mechanism of two types of Blockchain: PoS and PoW.
             - Established models and tested contractual features of crowdfunding and leveraged effective methods to improve the design and reduce moral risks of crowdfunding markets.
             - Studied the Treynor-Black and Black-Litterman Model portfolios and evaluated their performance.
-      
-    
-experiences:
     title: Experiences
     info:
       - role: Equity Research Intern – Power Equipment & New Energy Group
