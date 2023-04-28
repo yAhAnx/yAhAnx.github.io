@@ -70,10 +70,10 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
+      - degree: MEng in Financial Engineering
+        university: Cornell University
+        time: 2022 - 2023
+        #details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
           sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -82,9 +82,9 @@ education:
             - Bullet point
             - Bullet point
       - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
+        university: Texas A & M University
+        time: 2018 - 2022
+        #details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
           sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -92,6 +92,7 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
+
 experiences:
     title: Experiences
     info:
