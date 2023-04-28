@@ -98,6 +98,7 @@ projects:
     assignments:
       - title: Option Pricing and Volatility Surface Parameterization
         #link: "#hook"
+        time: Dec. 2020 - May 2021
         tagline: 
             - Built basic Equity Options Pricing Library for Daily PnL and Risk Calculation. Leveraged Monte Carlo simulation to calculate Options Mark and Greeks (e.g., Delta, Gamma, Vega, etc), performed and monitored daily PnL attribution using Taylor expansion, and analyzed the attributes of unexplained PnL with higher order terms.
             - Utilized Principal Component Analysis to explain the principal components embedded in the US Fed Funds Rates. Extracted three main factors by solving the top eigenvectors of the Covariance matrix and investigated Main variance explanation behavior.
