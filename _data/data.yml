@@ -93,11 +93,20 @@ education:
             - Bullet point
             - Bullet point
 
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-    
-      
-    
-experiences:
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
     title: Projects
     info:
       - role: Option Pricing and Volatility Surface Parameterization
@@ -123,6 +132,9 @@ experiences:
             - Built the architecture model of PoW via the design mechanism of two types of Blockchain: PoS and PoW.
             - Established models and tested contractual features of crowdfunding and leveraged effective methods to improve the design and reduce moral risks of crowdfunding markets.
             - Studied the Treynor-Black and Black-Litterman Model portfolios and evaluated their performance.
+      
+    
+experiences:
     title: Experiences
     info:
       - role: Equity Research Intern – Power Equipment & New Energy Group
