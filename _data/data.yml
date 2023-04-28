@@ -66,14 +66,14 @@ career-profile:
     title: Something about Me
     summary: |
       This is Yahan, persuing a Master's degree in Financial Engineering from Cornell.
-
+      
 education:
     title: Education
     info:
       - degree: MEng in Financial Engineering
         university: Cornell University
         time: 2022 - 2023
-        #details: |
+        details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
           sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -84,7 +84,7 @@ education:
       - degree: BSc in Applied Mathematics
         university: Texas A & M University
         time: 2018 - 2022
-        #details: |
+        details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
           sociis natoque penatibus et magnis dis parturient montes, nascetur
