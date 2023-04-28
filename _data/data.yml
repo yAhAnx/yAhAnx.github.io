@@ -96,6 +96,11 @@ education:
 projects:
     title: Projects
     assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+    assignments:
       - title: Option Pricing and Volatility Surface Parameterization
         #link: "#hook"
         time: Dec. 2020 - May 2021
