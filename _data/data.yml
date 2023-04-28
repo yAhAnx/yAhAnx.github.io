@@ -115,11 +115,10 @@ projects:
             - Forecasted stock price using tree regression prediction (binary splitting), random forest classifier, time series models.  
             - Constructed day-trade strategies like boosting, and trend-following trading (e.g., two-trend), such strategies generated up to 18.3% return with a 1.4 Sharpe ratio during back-testing.  
       - title: Reducing Negative Achievement Emotions and Beliefs in a Math Context - College Students
-        tagline: |
             - Designed and programmed an investigative questionnaire of the psychometric analysis with PsychToolKit.  
             - Managed virtual cognitive interviews with experimental subjects.  
       - title: Optimal Behavior in Blockchains, in Crowdfunding, and in Robo Advisor Portfolio Management
-        tagline: |
+        tagline: 
             - Applied mathematical optimization approach in the probability model field to solve the problems of maximizing the investor portfolio for robo-advisor, as well as crowdfunding investment.  |
             - Explored possible equilibrium problems in the blockchain with the help of game theory and economics.  |
             - Built the architecture model of PoW via the design mechanism of two types of Blockchain: PoS and PoW.  |
