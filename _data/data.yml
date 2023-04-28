@@ -32,14 +32,14 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: Chinese (Mandarin)
+        - idiom: English
           level: Native
 
-        - idiom: English
+        - idiom: French
           level: Professional
 
-        - idiom: Japanese
-          level: Conversational
+        - idiom: Spanish
+          level: Professional
 
     interests:
       title: Interests
@@ -50,26 +50,25 @@ sidebar:
         - item: Snowboarding
           link:
 
-        - item: Wakeboarding 
-          link:
-          
-        - item: Piano
-          link:
-        
-        - item: Ice Skating
+        - item: Cooking
           link:
 
 career-profile:
-    title: Something about Me
+    title: Career Profile
     summary: |
-      This is Yahan, persuing a Master's degree in Financial Engineering from Cornell.  
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
 education:
     title: Education
     info:
-      - degree: MEng in Financial Engineering
-        university: Cornell University
-        time: 2022 - 2023
-        #details: |
+      - degree: MSc in Computer Science
+        university: University of London
+        time: 2011 - 2012
+        details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
           sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -78,9 +77,9 @@ education:
             - Bullet point
             - Bullet point
       - degree: BSc in Applied Mathematics
-        university: Texas A & M University
-        time: 2018 - 2022
-        #details: |
+        university: Bristol University
+        time: 2007 - 2011
+        details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
           sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -88,47 +87,72 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-projects:
-    title: Projects
-    info:
-      - project: Option Pricing and Volatility Surface Parameterization
-        time: Jul. - Aug. 2022
-        details: |
-            - Built basic Equity Options Pricing Library for Daily PnL and Risk Calculation. Leveraged Monte Carlo simulation to calculate Options Mark and Greeks (e.g., Delta, Gamma, Vega, etc), performed and monitored daily PnL attribution using Taylor expansion, and analyzed the attributes of unexplained PnL with higher order terms.
-            - Utilized Principal Component Analysis to explain the principal components embedded in the US Fed Funds Rates. Extracted three main factors by solving the top eigenvectors of the Covariance matrix and investigated Main variance explanation behavior.
-            - Performed Volatility Surface Parameterization using Linear Interpolation on the S&P500 index. Examined the Calendar and Butterfly Arbitrage behavior on the volatility surface.
-      - project: Developing and Back-testing Systematic Trading Strategies
-        time: Jan. - May 2022
-        details: |
-            - Forecasted stock price using tree regression prediction (binary splitting), random forest classifier, time series models.
-            - Constructed day-trade strategies like boosting, and trend-following trading (e.g., two-trend), such strategies generated up to 18.3% return with a 1.4 Sharpe ratio during back-testing.
-      - project: Reducing Negative Achievement Emotions and Beliefs in a Math Context - College Students
-        time: Jan. - Aug. 2022
-        details: |
-            - Designed and programmed an investigative questionnaire of the psychometric analysis with PsychToolKit
-            - Managed virtual cognitive interviews with experimental subjects
-        time: Jun. - Aug. 2020
-        details: |
-            - Applied mathematical optimization approach in the probability model field to solve the problems of maximizing the investor portfolio for robo-advisor, as well as crowdfunding investment.
-            - Explored possible equilibrium problems in the blockchain with the help of game theory and economics.
-            - Built the architecture model of PoW via the design mechanism of two types of Blockchain: PoS and PoW.
-            - Established models and tested contractual features of crowdfunding and leveraged effective methods to improve the design and reduce moral risks of crowdfunding markets.
-            - Studied the Treynor-Black and Black-Litterman Model portfolios and evaluated their performance.
-
 experiences:
     title: Experiences
     info:
-      - role: Equity Research Intern – Power Equipment & New Energy Group
-        time: Dec. 2020 - May 2021
-        company: Industrial Securities, Remote
+      - role: Lead Developer
+        time: 2015 - Present
+        company: Startup Hubs, San Francisco
         details: |
-            - Constructed valuation models for GOODWE and SMA; performed horizontal and vertical comparisons and assessed industry prospects.
-            - Collected massive domestic and foreign photovoltaic industry data, focused on household and industrial energy storage as well as trends of carbon neutrality, constructed and updated industry database, and wrote 5 research reports for investment reference.
-      - role: Business Intern
-        time: Jun. - Jul. 2019
-        company: Shanghai Pudong Development Bank, Nanjing, China
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+          error sit voluptatem accusantium doloremque laudantium, totam rem
+          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+          architecto beatae vitae dicta sunt explicabo.
+            - Bullet point
+            - Bullet point
+      - role: Senior Software Engineer
+        time: 2014 - 2015
+        company: Google, London
         details: |
-            - Assisted in the collection and analysis of financial statements with Excel and processed the data using. Provided personalized financial advice, risk tips, and general guidance for customers.
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - role: UI Developer
+        time: 2012 - 2014
+        company: Amazon, London
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
     title: OSS Contributions
