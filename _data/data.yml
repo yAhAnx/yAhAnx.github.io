@@ -138,11 +138,11 @@ projects:
             - Studied the Treynor-Black and Black-Litterman Model portfolios and evaluated their performance.
       
     
-experiences:
+experiences: 
     title: Experiences
-    info: |
+    info: 
       - role: Equity Research Intern – Power Equipment & New Energy Group
-        time: Dec. 2020 - May 2021
+      - time: Dec. 2020 - May 2021
         company: Industrial Securities, Remote
         details: |
             - Constructed valuation models for GOODWE and SMA; performed horizontal and vertical comparisons and assessed industry prospects.
