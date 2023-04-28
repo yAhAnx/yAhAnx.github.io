@@ -95,20 +95,6 @@ education:
 
 projects:
     title: Projects
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-    assignments:
-      - title: Option Pricing and Volatility Surface Parameterization
-        #link: "#hook"
-        time: Dec. 2020 - May 2021
-        tagline: 
-            - Built basic Equity Options Pricing Library for Daily PnL and Risk Calculation. Leveraged Monte Carlo simulation to calculate Options Mark and Greeks (e.g., Delta, Gamma, Vega, etc), performed and monitored daily PnL attribution using Taylor expansion, and analyzed the attributes of unexplained PnL with higher order terms.
-            - Utilized Principal Component Analysis to explain the principal components embedded in the US Fed Funds Rates. Extracted three main factors by solving the top eigenvectors of the Covariance matrix and investigated Main variance explanation behavior.
-            - Performed Volatility Surface Parameterization using Linear Interpolation on the S&P500 index. Examined the Calendar and Butterfly Arbitrage behavior on the volatility surface.
-
     info:
       - role: Option Pricing and Volatility Surface Parameterization
         time: Jul. - Aug. 2022
@@ -134,6 +120,7 @@ projects:
             - Established models and tested contractual features of crowdfunding and leveraged effective methods to improve the design and reduce moral risks of crowdfunding markets.
             - Studied the Treynor-Black and Black-Litterman Model portfolios and evaluated their performance.
       
+    
 experiences:
     title: Experiences
     info:
