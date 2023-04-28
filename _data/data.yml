@@ -107,10 +107,13 @@ projects:
             - Built basic Equity Options Pricing Library for Daily PnL and Risk Calculation. Leveraged Monte Carlo simulation to calculate Options Mark and Greeks (e.g., Delta, Gamma, Vega, etc), performed and monitored daily PnL attribution using Taylor expansion, and analyzed the attributes of unexplained PnL with higher order terms.
             - Utilized Principal Component Analysis to explain the principal components embedded in the US Fed Funds Rates. Extracted three main factors by solving the top eigenvectors of the Covariance matrix and investigated Main variance explanation behavior.
             - Performed Volatility Surface Parameterization using Linear Interpolation on the S&P500 index. Examined the Calendar and Butterfly Arbitrage behavior on the volatility surface.
-      - title: DevStudio
+      - title: Developing and Back-testing Systematic Trading Strategies
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
-    
+      - title: Reducing Negative Achievement Emotions and Beliefs in a Math Context - College Students
+      - title: Optimal Behavior in Blockchains, in Crowdfunding, and in Robo Advisor Portfolio Management
+      
+      
     info:
       - role: Option Pricing and Volatility Surface Parameterization
         time: Jul. - Aug. 2022
